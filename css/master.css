@@ -1,0 +1,30 @@
+body { font-family: 'Nobile', arial, sans-serif; font-size: 13pt; color: #39494f;}
+div.container { margin-top: 150px;}
+h1 { padding-top: 10px; font-size: 64px; color: #ef332b; font-family: 'Droid Serif', arial, serif; font-weight: bold;  text-shadow: 2px 2px 2px #aaa;}
+h2 { font-size: 13pt; font-family: 'Nobile', arial, serif; font-weight: bold;  color: #39494f;}
+a { color: #39494f; }
+a:hover { text-decoration: underline; color: #ef332b; }
+ul.id-badges { list-style: none; padding: 0px 20px 0px 0px; float: left; font-weight: bold; }
+ul.id-badges a { text-decoration: none; }
+li.id-badge { font-weight: normal; background-repeat: no-repeat; padding-left: 30px; margin-top: 10px; }
+li#id-twitter { background-image: url('../images/icons/24px/twitter.png'); }
+li#id-flickr{ background-image: url('../images/icons/24px/flickr.png'); }
+li#id-delicious{ background-image: url('../images/icons/24px/delicious.png'); }
+li#id-facebook{ background-image: url('../images/icons/24px/facebook.png'); }
+li#id-email{ background-image: url('../images/icons/24px/email.png'); }
+li#id-posterous{ background-image: url('../images/icons/24px/posterous.png'); }
+li#id-wordpress{ background-image: url('../images/icons/24px/wordpress.png'); }
+li#id-wordpress-blue{ background-image: url('../images/icons/24px/wordpress-blue.png'); }
+li#id-foursquare{ background-image: url('../images/icons/24px/foursquare.png'); }
+li#id-button-blue{ background-image: url('../images/icons/24px/button-blue.png'); }
+li#id-button-light-blue{ background-image: url('../images/icons/24px/button-light-blue.png'); }
+li#id-button-green{ background-image: url('../images/icons/24px/button-green.png'); }
+li#id-button-orange{ background-image: url('../images/icons/24px/button-orange.png'); }
+li#id-button-white{ background-image: url('../images/icons/24px/button-white.png'); }
+li#id-button-red{ background-image: url('../images/icons/24px/button-red.png'); }
+li#id-slideshare{ background-image: url('../images/icons/24px/slideshare.png'); }
+li#id-google{ background-image: url('../images/icons/24px/google.png'); }
+li#id-google-talk{ background-image: url('../images/icons/24px/google-talk.png'); }
+li#id-linkedin{ background-image: url('../images/icons/24px/linkedin.png'); }
+li#id-github{ background-image: url('../images/icons/24px/github-body.png'); }
+li#id-lot{ background-image: url('../images/icons/24px/lot.png'); }
